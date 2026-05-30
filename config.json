@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderfetch",
+        "uuid": 223776,
+        "checksum": "siidn4"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
